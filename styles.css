@@ -32,3 +32,36 @@ span{
         height: 100%;
     }
 }
+
+.get-in-touch{
+    background-color:  #ddc9fda9;
+
+    & img{
+        background-color: #8A47F6;
+    }
+}
+
+.links a{
+    text-decoration: none;
+    color: #333333;
+}
+
+.links a:nth-child(2){
+    color: #8A47F6;
+}
+
+.name{
+    background-color: #ddc9fda9;
+    padding-right: 10px;
+    border-radius: 30px;
+}
+
+.arrow{
+    padding-left: 20px;
+}
+
+.arrow span{
+    padding: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+}

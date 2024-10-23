@@ -13,3 +13,22 @@
 .navbar li{
     padding: 0 1rem;
 }
+
+.large-text{
+    font-size: 2.7rem;
+}
+
+p{
+    color: #333333;
+}
+
+span{
+    color: #8A47F6;
+}
+
+.carousel-inner{
+    height: 90vh;
+    & img{
+        height: 100%;
+    }
+}
